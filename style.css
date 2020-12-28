@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://s2.best-wallpaper.net/wallpaper/5120x2880/1901/Stop-red-hand-black-background_5120x2880.jpg);
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.house{
+    display: flex;
+    justify-content: center;
+    box-shadow: 3px 3px 3px 3px;
+    width: 30em;
+    margin: auto;
+    height: 20em;
+    border-radius: 20px;
+    background-color:gray;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.question{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5em;
+    font-size: larger;
+    font-weight: bolder;
+
+    
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+.answers{
+    display:flex;
+    justify-content: center;
+    height: 2em;
+}
+
+button{
+    border-radius: 40px;
+    width: 8em;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.863);
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+
+img{
+    width: 13em;
+    border-radius: 20px;
+}
